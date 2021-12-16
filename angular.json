@@ -24,7 +24,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "/Users/olesochy/Documents/angular/hosp-proj/node_modules/bootstrap/dist/css/bootstrap.css"
+    
             ],
             "scripts": []
           },
